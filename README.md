@@ -6,6 +6,7 @@ Api de la App tarifusta que consite en ingresar lugar donde se encuentra la pers
 Url:
 http://localhost/api/{DondeEstas}/{DondeQuieresIr}
 
-![image](https://user-images.githubusercontent.com/115430199/199634511-2e280cd4-5927-4014-a567-7cb99b967915.png)
+![58eGF2n - Imgur](https://user-images.githubusercontent.com/115430199/199634807-2eb372d1-c37c-497b-a56e-4516eb7ec9ec.png)
+
 
 
